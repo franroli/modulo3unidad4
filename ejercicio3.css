@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(156, 156, 156);
+    display: block;
+    align-items: center;
+    text-align: center;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+
+}
+textarea {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    align-items: center;
+    width: 100px;
+    height: 20px;
+    resize: none;
+    border-radius: 10px;
+}
